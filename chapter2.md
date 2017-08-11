@@ -1,1 +1,3 @@
 # Chapter 2: B1 lost B2
+
+One day B1 lost b2
