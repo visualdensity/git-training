@@ -4,4 +4,4 @@ Here's a banana in Pyjama. His name is B1. He's got a good friend B2
 Something else added here in master. B2 is not happy in the master branch
 
 Proceed to chapter 2
-Added in extension branch. Bla bla hahahhaa
+I don't like chapter 2
